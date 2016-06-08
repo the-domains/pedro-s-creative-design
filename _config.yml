@@ -1,0 +1,28 @@
+name: "Pedro's Creative Design"
+favicon: null
+layout_spectrum: 0.316930242581293
+typography_spectrum: 0.20939020183868706
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.22849445510655642
+  lightness: 0.6441026364918798
+  saturation: 0.9829311142675579
+  rhythmicContrast: 0.32242746790871024
+purpose: []
